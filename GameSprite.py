@@ -1,10 +1,5 @@
-# -*- coding = utf-8 -*-
-# Worker : HAN XIA
-# Motto : Practice makes perfect.
-# Time : 31/7/2023 8:54 pm
 
 # -*- coding = utf-8 -*-
-# Worker : HAN XIA
 # Motto : Practice makes perfect.
 # Time : 29/7/2023 3:10 pm
 import random
