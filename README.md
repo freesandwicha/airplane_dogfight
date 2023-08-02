@@ -39,3 +39,8 @@ Not only did it enhance my understanding of game development but also solidified
 Thanks again to the teacher.
 
 
+<img width="466" alt="the main window" src="https://github.com/freesandwicha/airplane_dogfight/assets/100746570/eb3eb1b7-0ab0-447a-a8b6-94a0a1a3637a">
+<img width="485" alt="Hit the enemy" src="https://github.com/freesandwicha/airplane_dogfight/assets/100746570/c0ff6846-9038-45e1-82ae-c05f35cad2a3">
+<img width="480" alt="collision" src="https://github.com/freesandwicha/airplane_dogfight/assets/100746570/7c24a5cd-7d86-4d2b-8a9c-02a7d0eb038b">
+<img width="466" alt="hit by enemy" src="https://github.com/freesandwicha/airplane_dogfight/assets/100746570/f4ea0f32-4a63-4636-91ce-77e38fcb9927">
+<img width="478" alt="restart" src="https://github.com/freesandwicha/airplane_dogfight/assets/100746570/95db422c-a5c0-4582-89b8-e721768c30ed">
